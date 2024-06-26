@@ -4,6 +4,7 @@ Soy un apasionado Ingeniero Industrial con enfoque en Data Analyst, interesado e
 🔵¿Qué hago?
 
 Cada dia trabajo en ser mi mejor versión y poner al servicio mis conocimientos,experiencias y habilidades en pro de crear un cambio positivo en el mundo🔥
+
 🔵¿Qué tecnologías uso?
 
 ✅Sql Server
